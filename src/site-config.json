@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Alpha Landscape & Design",
+    "phone": "+12166504205",
+    "category": "hardscaping contractor",
+    "city": "Cleveland",
+    "state": "OH"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Cleveland's Hardscape Authority",
+      "heroSubline": "Transforming outdoor spaces with enduring craftsmanship. Expert design and installation for Cleveland homes and businesses.",
+      "aboutTitle": "Built on Cleveland Stone",
+      "aboutText": [
+        "Alpha Landscape & Design started with a simple vision: to build lasting beauty in Cleveland's outdoor spaces. Founded by lifelong Clevelander, Mark Olsen, we understand the unique challenges our climate presents, from brutal winters to humid summers.",
+        "We're not just contractors; we're creators. Our approach blends innovative design with proven construction techniques, ensuring your hardscape project stands the test of time. We prioritize clear communication, meticulous planning, and unwavering attention to detail, resulting in exceptional results every time.",
+        "Alpha Landscape & Design is deeply rooted in the Cleveland community. We source materials locally whenever possible, support local businesses, and take pride in contributing to the city's vibrant landscape. We believe in giving back and building a stronger Cleveland, one project at a time."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Cleveland's climate, soil conditions, and architectural styles."
+        },
+        {
+          "title": "Custom Designs",
+          "description": "Tailored hardscape solutions that reflect your unique style and enhance your property's value."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "Durable, weather-resistant materials sourced from trusted suppliers."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Skilled craftsmen dedicated to precise execution and lasting results."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Outdoor Space?",
+      "ctaSubline": "Contact Alpha Landscape & Design today for a free consultation and estimate."
+    },
+    "services": [
+      {
+        "slug": "patio-design-installation",
+        "name": "Patio Design & Installation",
+        "shortDescription": "Creating stunning and functional patios for Cleveland homes.",
+        "description": "Alpha Landscape & Design specializes in crafting exceptional patios that enhance your outdoor living experience. We understand the importance of a well-designed patio for Cleveland homeowners, providing a space for relaxation, entertainment, and connecting with nature. From initial design concepts to expert installation, we handle every detail with precision. We carefully consider your lifestyle, architectural style, and budget to create a custom patio that exceeds your expectations. \n\nOur team is experienced in working with a variety of materials, including pavers, natural stone, brick, and concrete. We take into account Cleveland's freeze-thaw cycles and choose materials that can withstand the harsh weather conditions. We also ensure proper drainage to prevent water damage and maintain the integrity of your patio for years to come. Whether you envision a cozy retreat or a spacious entertaining area, Alpha Landscape & Design will bring your patio dreams to life.",
+        "process": [
+          "Step 1: Consultation and Design – Discuss your needs and create a custom design.",
+          "Step 2: Material Selection – Choose from a wide range of pavers, stone, and other materials.",
+          "Step 3: Site Preparation – Ensure proper grading, drainage, and base preparation.",
+          "Step 4: Installation – Expert installation with attention to detail and precision."
+        ],
+        "benefits": [
+          "Enhanced outdoor living space",
+          "Increased property value",
+          "Custom designs tailored to your taste",
+          "Durable materials that withstand Cleveland weather"
+        ],
+        "faq": [
+          {
+            "question": "How long does patio installation take?",
+            "answer": "The timeline depends on the size and complexity of the project, but we provide a detailed schedule during the consultation phase."
+          },
+          {
+            "question": "What materials are best for Cleveland patios?",
+            "answer": "Pavers and natural stone are popular choices due to their durability and resistance to freeze-thaw cycles. We can recommend specific options based on your needs."
+          },
+          {
+            "question": "Do I need a permit for patio installation?",
+            "answer": "Permit requirements vary depending on the location and size of the patio. We can assist you with the permit application process."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-installation-repair",
+        "name": "Driveway Installation & Repair",
+        "shortDescription": "Durable and aesthetically pleasing driveways for Cleveland properties.",
+        "description": "A well-built driveway is essential for curb appeal and functionality, especially in Cleveland's demanding climate. Alpha Landscape & Design offers expert driveway installation and repair services using high-quality materials and proven techniques. We understand the challenges of Cleveland's freeze-thaw cycles and choose materials that can withstand the harsh weather conditions. Our team ensures proper grading, drainage, and base preparation to prevent cracking and settling. \n\nWhether you need a new driveway installed or your existing driveway repaired, we have the expertise to deliver exceptional results. We work with a variety of materials, including concrete, asphalt, and pavers, to create driveways that are both durable and aesthetically pleasing. We also offer decorative options, such as stamped concrete and paver borders, to enhance the appearance of your property. From repairing cracks and potholes to completely replacing your driveway, Alpha Landscape & Design is your trusted partner for all your driveway needs.",
+        "process": [
+          "Step 1: Assessment – Evaluate the existing driveway and identify areas of damage.",
+          "Step 2: Material Selection – Choose from concrete, asphalt, pavers, or other materials.",
+          "Step 3: Demolition and Removal – Remove old driveway material and prepare the base.",
+          "Step 4: Installation or Repair – Install new driveway or repair existing damage with precision."
+        ],
+        "benefits": [
+          "Improved curb appeal",
+          "Increased property value",
+          "Durable and long-lasting driveway",
+          "Expert repairs to prevent further damage"
+        ],
+        "faq": [
+          {
+            "question": "How often should I seal my driveway?",
+            "answer": "We recommend sealing your driveway every 2-3 years to protect it from the elements and prevent cracking."
+          },
+          {
+            "question": "What causes driveway cracks?",
+            "answer": "Driveway cracks can be caused by a variety of factors, including freeze-thaw cycles, heavy traffic, and improper installation."
+          },
+          {
+            "question": "How much does it cost to repair a driveway?",
+            "answer": "The cost of driveway repair depends on the extent of the damage and the materials used. We provide free estimates to help you determine the best solution for your budget."
+          }
+        ]
+      },
+      {
+        "slug": "retaining-wall-construction",
+        "name": "Retaining Wall Construction",
+        "shortDescription": "Building strong and beautiful retaining walls in Cleveland.",
+        "description": "Alpha Landscape & Design specializes in designing and constructing durable and aesthetically pleasing retaining walls. Retaining walls are essential for preventing soil erosion, creating level areas, and enhancing the beauty of your property, especially in Cleveland's varied terrain. We understand the importance of proper engineering and construction techniques to ensure the stability and longevity of your retaining wall. Our team has extensive experience in working with a variety of materials, including concrete blocks, natural stone, and timber. \n\nWe carefully assess the soil conditions, drainage requirements, and structural load to design a retaining wall that meets your specific needs. Whether you need a small retaining wall for landscaping purposes or a large retaining wall for slope stabilization, Alpha Landscape & Design will deliver exceptional results. We are committed to providing quality workmanship and using the best materials to ensure that your retaining wall stands the test of time.",
+        "process": [
+          "Step 1: Site Assessment – Evaluate the site conditions and soil type.",
+          "Step 2: Design and Engineering – Create a custom design that meets structural requirements.",
+          "Step 3: Material Selection – Choose from concrete blocks, natural stone, or timber.",
+          "Step 4: Construction – Build the retaining wall according to the design specifications."
+        ],
+        "benefits": [
+          "Prevents soil erosion",
+          "Creates level areas",
+          "Enhances property value",
+          "Durable and long-lasting construction"
+        ],
+        "faq": [
+          {
+            "question": "Do I need a permit for a retaining wall?",
+            "answer": "Permit requirements vary depending on the height and location of the retaining wall. We can assist you with the permit application process."
+          },
+          {
+            "question": "What materials are best for retaining walls?",
+            "answer": "Concrete blocks and natural stone are popular choices due to their strength and durability. We can recommend specific options based on your needs."
+          },
+          {
+            "question": "How long does it take to build a retaining wall?",
+            "answer": "The timeline depends on the size and complexity of the project. We provide a detailed schedule during the consultation phase."
+          }
+        ]
+      },
+      {
+        "slug": "outdoor-kitchens-fireplaces",
+        "name": "Outdoor Kitchens & Fireplaces",
+        "shortDescription": "Creating inviting outdoor living spaces with kitchens and fireplaces.",
+        "description": "Extend your living space outdoors with a custom-designed outdoor kitchen or fireplace from Alpha Landscape & Design. We specialize in creating inviting and functional outdoor living spaces that enhance your lifestyle and increase your property value. Our team works closely with you to design an outdoor kitchen or fireplace that meets your specific needs and preferences. We offer a wide range of options, including built-in grills, countertops, storage, and seating areas. \n\nWe use high-quality materials that are designed to withstand Cleveland's weather conditions. From cozy fireplaces to fully equipped outdoor kitchens, Alpha Landscape & Design will transform your backyard into a relaxing and entertaining oasis. We handle every aspect of the project, from design and construction to electrical and plumbing connections, ensuring a seamless and stress-free experience.",
+        "process": [
+          "Step 1: Design Consultation – Discuss your needs and create a custom design.",
+          "Step 2: Material Selection – Choose from a wide range of appliances, countertops, and materials.",
+          "Step 3: Construction – Build the outdoor kitchen or fireplace according to the design specifications.",
+          "Step 4: Installation – Install appliances, plumbing, and electrical connections."
+        ],
+        "benefits": [
+          "Extended outdoor living space",
+          "Increased property value",
+          "Custom designs tailored to your taste",
+          "Enhanced entertaining options"
+        ],
+        "faq": [
+          {
+            "question": "What appliances can be included in an outdoor kitchen?",
+            "answer": "We can include grills, smokers, refrigerators, sinks, and more. The options are endless and depend on your preferences."
+          },
+          {
+            "question": "What materials are best for outdoor kitchens?",
+            "answer": "Stainless steel, granite, and concrete are popular choices due to their durability and weather resistance. We can recommend specific options based on your needs."
+          },
+          {
+            "question": "Do I need a permit for an outdoor kitchen or fireplace?",
+            "answer": "Permit requirements vary depending on the location and size of the project. We can assist you with the permit application process."
+          }
+        ]
+      },
+      {
+        "slug": "walkways-steps-pathways",
+        "name": "Walkways, Steps & Pathways",
+        "shortDescription": "Safe and elegant walkways and steps for Cleveland homes.",
+        "description": "Enhance the safety and beauty of your property with custom-designed walkways, steps, and pathways from Alpha Landscape & Design. We specialize in creating safe and elegant pathways that complement your landscape and improve accessibility. Our team understands the importance of proper design and construction techniques to ensure the durability and longevity of your walkways and steps, especially in Cleveland's challenging climate. We offer a wide range of materials, including pavers, natural stone, and concrete, to create pathways that are both functional and aesthetically pleasing. \n\nWe carefully consider the slope, drainage, and traffic flow to design walkways and steps that meet your specific needs. Whether you need a simple pathway to your front door or a complex network of walkways throughout your garden, Alpha Landscape & Design will deliver exceptional results. We are committed to providing quality workmanship and using the best materials to ensure that your walkways and steps stand the test of time.",
+        "process": [
+          "Step 1: Design Consultation – Discuss your needs and create a custom design.",
+          "Step 2: Material Selection – Choose from pavers, natural stone, or concrete.",
+          "Step 3: Site Preparation – Ensure proper grading and base preparation.",
+          "Step 4: Installation – Install walkways and steps according to the design specifications."
+        ],
+        "benefits": [
+          "Improved safety and accessibility",
+          "Enhanced curb appeal",
+          "Increased property value",
+          "Custom designs tailored to your taste"
+        ],
+        "faq": [
+          {
+            "question": "What materials are best for walkways and steps?",
+            "answer": "Pavers and natural stone are popular choices due to their durability and slip resistance. We can recommend specific options based on your needs."
+          },
+          {
+            "question": "How wide should a walkway be?",
+            "answer": "A walkway should be at least 3 feet wide to allow for comfortable passage. We can adjust the width based on your specific needs."
+          },
+          {
+            "question": "Do I need a permit for walkways and steps?",
+            "answer": "Permit requirements vary depending on the location and size of the project. We can assist you with the permit application process."
+          }
+        ]
+      },
+      {
+        "slug": "hardscape-lighting",
+        "name": "Hardscape Lighting",
+        "shortDescription": "Illuminate your outdoor space with beautiful and functional lighting.",
+        "description": "Highlight the beauty of your hardscape and extend your outdoor living hours with custom-designed hardscape lighting from Alpha Landscape & Design. We specialize in creating stunning lighting designs that enhance the ambiance and safety of your property. Our team understands the importance of proper lighting placement and fixture selection to achieve the desired effect. We offer a wide range of lighting options, including path lights, spotlights, and accent lights. \n\nWe use high-quality LED fixtures that are energy-efficient and long-lasting. From subtle accent lighting to dramatic spotlights, Alpha Landscape & Design will transform your outdoor space into a welcoming and inviting oasis. We handle every aspect of the project, from design and installation to wiring and programming, ensuring a seamless and stress-free experience. We also offer smart lighting systems that allow you to control your outdoor lights from your smartphone or tablet.",
+        "process": [
+          "Step 1: Design Consultation – Discuss your needs and create a custom lighting design.",
+          "Step 2: Fixture Selection – Choose from a wide range of LED fixtures.",
+          "Step 3: Installation – Install lighting fixtures and wiring.",
+          "Step 4: Programming – Program smart lighting systems for optimal control."
+        ],
+        "benefits": [
+          "Enhanced safety and security",
+          "Extended outdoor living hours",
+          "Increased property value",
+          "Custom designs tailored to your taste"
+        ],
+        "faq": [
+          {
+            "question": "What type of lighting is best for hardscapes?",
+            "answer": "LED lighting is a popular choice due to its energy efficiency and long lifespan. We can recommend specific options based on your needs."
+          },
+          {
+            "question": "How much does it cost to install hardscape lighting?",
+            "answer": "The cost of hardscape lighting depends on the size and complexity of the project. We provide free estimates to help you determine the best solution for your budget."
+          },
+          {
+            "question": "Can I control my outdoor lights with my smartphone?",
+            "answer": "Yes, we offer smart lighting systems that allow you to control your outdoor lights from your smartphone or tablet."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Cleveland",
+        "slug": "cleveland-oh",
+        "state": "OH",
+        "content": "Alpha Landscape & Design is proud to offer premier hardscaping services to the residents and businesses of Cleveland, Ohio. From the shores of Lake Erie to the vibrant neighborhoods throughout the city, we bring our expertise in patios, walkways, retaining walls, and more to enhance your outdoor living spaces. We understand the unique challenges and opportunities presented by Cleveland's climate and architecture, ensuring that our hardscaping solutions are both beautiful and durable. \n\nOur team works closely with you to design and build hardscapes that complement your property's existing features and reflect your personal style. Whether you're looking to create a cozy backyard retreat or enhance your commercial curb appeal, Alpha Landscape & Design is committed to providing exceptional craftsmanship and customer satisfaction. We are dedicated to transforming your vision into a reality, enhancing the beauty and value of your Cleveland property.",
+        "localContext": "As a major city on Lake Erie, Cleveland is known for its diverse neighborhoods, rich history, and vibrant arts and culture scene.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Parma",
+          "Shaker Heights"
+        ]
+      },
+      {
+        "city": "Lakewood",
+        "slug": "lakewood-oh",
+        "state": "OH",
+        "content": "Alpha Landscape & Design is delighted to extend our hardscaping services to the charming city of Lakewood, Ohio. With its beautiful lakefront views and historic homes, Lakewood offers a unique backdrop for stunning outdoor transformations. We specialize in creating custom patios, elegant walkways, and durable retaining walls that enhance the beauty and functionality of your Lakewood property.\n\nWe understand the importance of preserving Lakewood's architectural character while incorporating modern design elements. Our team works closely with homeowners to create hardscapes that seamlessly blend with the existing landscape and reflect their personal style. From cozy backyard escapes to welcoming front entrances, Alpha Landscape & Design is committed to providing exceptional craftsmanship and customer satisfaction. Let us help you create the outdoor oasis of your dreams in Lakewood.",
+        "localContext": "Lakewood is a vibrant city known for its diverse population, thriving arts scene, and beautiful lakefront parks.",
+        "nearbyAreas": [
+          "Cleveland",
+          "Rocky River",
+          "Cleveland Heights"
+        ]
+      },
+      {
+        "city": "Parma",
+        "slug": "parma-oh",
+        "state": "OH",
+        "content": "Alpha Landscape & Design proudly serves the residents and businesses of Parma, Ohio, with top-quality hardscaping solutions. As a large and diverse community, Parma offers a wide range of properties that can benefit from our expertise in patios, walkways, retaining walls, and more. We are committed to providing durable and aesthetically pleasing hardscapes that enhance the value and enjoyment of your Parma property.\n\nOur team works closely with you to design and build hardscapes that meet your specific needs and preferences. Whether you're looking to create a functional outdoor living space or improve your property's curb appeal, Alpha Landscape & Design is dedicated to providing exceptional craftsmanship and customer satisfaction. We use only the highest quality materials and proven techniques to ensure that your hardscaping project stands the test of time.",
+        "localContext": "Parma is a large suburb of Cleveland known for its residential neighborhoods, parks, and community events.",
+        "nearbyAreas": [
+          "Brooklyn",
+          "Seven Hills",
+          "Independence"
+        ]
+      },
+      {
+        "city": "Rocky River",
+        "slug": "rocky-river-oh",
+        "state": "OH",
+        "content": "Alpha Landscape & Design is pleased to offer our hardscaping services to the beautiful city of Rocky River, Ohio. With its stunning lakefront properties and well-maintained neighborhoods, Rocky River provides the perfect canvas for creating exceptional outdoor living spaces. We specialize in designing and building custom patios, walkways, and retaining walls that enhance the beauty and functionality of your property.\n\nWe understand the importance of creating hardscapes that complement Rocky River's unique architectural style and natural surroundings. Our team works closely with homeowners to develop designs that reflect their personal taste and enhance their property's value. From elegant outdoor dining areas to inviting front entrances, Alpha Landscape & Design is committed to providing exceptional craftsmanship and customer satisfaction. Let us transform your Rocky River property into the outdoor oasis you've always dreamed of.",
+        "localContext": "Rocky River is an affluent suburb of Cleveland known for its beautiful homes, excellent schools, and scenic parks along the Rocky River.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Bay Village",
+          "Westlake"
+        ]
+      },
+      {
+        "city": "Westlake",
+        "slug": "westlake-oh",
+        "state": "OH",
+        "content": "Alpha Landscape & Design is proud to provide hardscaping services to the residents and businesses of Westlake, Ohio. As a thriving community with a mix of residential and commercial properties, Westlake offers a wide range of opportunities to enhance outdoor spaces with our expertise in patios, walkways, retaining walls, and more. We are committed to delivering durable and aesthetically pleasing hardscapes that meet the unique needs of each Westlake property.\n\nOur team works closely with you to design and build hardscapes that complement your property's existing features and reflect your personal style. Whether you're looking to create a relaxing backyard retreat or enhance your business's curb appeal, Alpha Landscape & Design is dedicated to providing exceptional craftsmanship and customer satisfaction. We use only the highest quality materials and proven techniques to ensure that your hardscaping project stands the test of time in Westlake.",
+        "localContext": "Westlake is a growing suburb of Cleveland known for its excellent schools, shopping centers, and corporate headquarters.",
+        "nearbyAreas": [
+          "Bay Village",
+          "North Olmsted",
+          "Avon"
+        ]
+      },
+      {
+        "city": "Avon",
+        "slug": "avon-oh",
+        "state": "OH",
+        "content": "Alpha Landscape & Design is excited to offer our hardscaping services to the growing community of Avon, Ohio. With its new developments and established neighborhoods, Avon presents a variety of opportunities to create beautiful and functional outdoor spaces. We specialize in designing and building custom patios, walkways, and retaining walls that enhance the value and enjoyment of your Avon property.\n\nWe understand the importance of creating hardscapes that complement Avon's evolving landscape and architectural styles. Our team works closely with homeowners to develop designs that reflect their personal taste and meet their specific needs. From welcoming front entrances to spacious backyard entertaining areas, Alpha Landscape & Design is committed to providing exceptional craftsmanship and customer satisfaction. Let us help you create the outdoor oasis of your dreams in Avon.",
+        "localContext": "Avon is a rapidly growing suburb of Cleveland known for its new housing developments, shopping centers, and family-friendly atmosphere.",
+        "nearbyAreas": [
+          "North Ridgeville",
+          "Avon Lake",
+          "Westlake"
+        ]
+      },
+      {
+        "city": "Bay Village",
+        "slug": "bay-village-oh",
+        "state": "OH",
+        "content": "Alpha Landscape & Design is delighted to offer our hardscaping services to the residents of Bay Village, Ohio. Known for its beautiful lakefront properties and charming neighborhoods, Bay Village provides an ideal setting for creating stunning outdoor living spaces. We specialize in designing and building custom patios, walkways, and retaining walls that enhance the beauty and functionality of your property.\n\nWe understand the importance of creating hardscapes that complement Bay Village's unique character and natural surroundings. Our team works closely with homeowners to develop designs that reflect their personal taste and enhance their property's value. From relaxing lakeside retreats to welcoming front entrances, Alpha Landscape & Design is committed to providing exceptional craftsmanship and customer satisfaction. Let us transform your Bay Village property into the outdoor oasis you've always envisioned.",
+        "localContext": "Bay Village is a small, affluent suburb of Cleveland known for its beautiful lakefront properties and excellent schools.",
+        "nearbyAreas": [
+          "Rocky River",
+          "Westlake",
+          "Avon Lake"
+        ]
+      },
+      {
+        "city": "Strongsville",
+        "slug": "strongsville-oh",
+        "state": "OH",
+        "content": "Alpha Landscape & Design proudly serves the residents and businesses of Strongsville, Ohio, offering top-quality hardscaping solutions. As a large and established community, Strongsville boasts a variety of properties that can benefit from our expertise in patios, walkways, retaining walls, and more. We are committed to providing durable and aesthetically pleasing hardscapes that enhance the value and enjoyment of your Strongsville property. \n\nOur team works closely with you to design and build hardscapes that meet your specific needs and preferences. Whether you're looking to create a functional outdoor living space or improve your property's curb appeal, Alpha Landscape & Design is dedicated to providing exceptional craftsmanship and customer satisfaction. We use only the highest quality materials and proven techniques to ensure that your hardscaping project stands the test of time.",
+        "localContext": "Strongsville is a large suburb of Cleveland known for its residential neighborhoods, parks, and shopping centers.",
+        "nearbyAreas": [
+          "North Royalton",
+          "Brunswick",
+          "Middleburg Heights"
+        ]
+      },
+      {
+        "city": "Shaker Heights",
+        "slug": "shaker-heights-oh",
+        "state": "OH",
+        "content": "Alpha Landscape & Design is pleased to offer hardscaping services to the residents of Shaker Heights, Ohio. Known for its beautiful, historic homes and meticulously landscaped properties, Shaker Heights provides a unique opportunity to create stunning and sophisticated outdoor spaces. Our expertise includes designing and installing patios, walkways, retaining walls, and more that complement the architectural style of Shaker Heights homes.\n\nWe understand the importance of maintaining the aesthetic integrity of Shaker Heights while incorporating modern design elements. Our team works closely with homeowners to create hardscapes that blend seamlessly with the existing landscape and enhance the overall beauty of their properties. From elegant garden paths to inviting outdoor entertaining areas, Alpha Landscape & Design is committed to providing exceptional craftsmanship and customer satisfaction.",
+        "localContext": "Shaker Heights is an affluent suburb of Cleveland known for its historic homes, beautiful parks, and excellent schools.",
+        "nearbyAreas": [
+          "Cleveland Heights",
+          "University Heights",
+          "Beachwood"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Patio Installation",
+        "text": "Alpha Landscape & Design did an amazing job with our new patio! Mark helped us design the perfect space for our backyard in Tremont, and the crew was professional and efficient. The pavers look fantastic, and we've already had several barbecues. Highly recommend!",
+        "date": "2025-07-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Driveway Repair",
+        "text": "Our driveway had some pretty significant cracks from the Cleveland winters. Alpha Landscape & Design came out and repaired them quickly and affordably. It looks so much better now! Good, solid work.",
+        "date": "2025-06-22"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Retaining Wall Construction",
+        "text": "We needed a retaining wall built in our backyard to prevent erosion. Alpha Landscape & Design provided a great solution and built a beautiful and sturdy wall that blends perfectly with our landscaping. Very happy with the results!",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "John S.",
+        "rating": 5,
+        "service": "Outdoor Kitchen",
+        "text": "We had Alpha Landscape & Design install an outdoor kitchen, and it's been a game-changer! We love spending time outdoors now, grilling and entertaining. The quality of the work is excellent, and the design is perfect for our needs.",
+        "date": "2025-04-01"
+      },
+      {
+        "name": "Lisa B.",
+        "rating": 4,
+        "service": "Walkway Installation",
+        "text": "Alpha Landscape & Design installed a new walkway from our driveway to our front door. It looks great and is much safer than our old, uneven path. The team was professional and easy to work with.",
+        "date": "2025-03-18"
+      },
+      {
+        "name": "Michael P.",
+        "rating": 5,
+        "service": "Hardscape Lighting",
+        "text": "The lighting Alpha Landscape & Design installed has completely transformed our backyard. It's so beautiful and inviting at night. They did a fantastic job of highlighting the features of our landscaping. Highly recommend their lighting services!",
+        "date": "2025-02-25"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Alpha Landscape & Design | Cleveland OH",
+        "description": "Cleveland's premier hardscaping contractor. Patios, driveways, retaining walls & more. Free estimates!"
+      },
+      "about": {
+        "title": "About Alpha Landscape & Design",
+        "description": "Learn about Alpha Landscape & Design's commitment to quality and community in Cleveland, OH"
+      },
+      "services": {
+        "title": "Hardscaping Services | Cleveland OH",
+        "description": "Expert hardscaping services in Cleveland. Patios, driveways, retaining walls, and more."
+      },
+      "contact": {
+        "title": "Contact Alpha Landscape & Design",
+        "description": "Contact Alpha Landscape & Design for a free hardscaping consultation in Cleveland, OH."
+      },
+      "reviews": {
+        "title": "Alpha Landscape & Design Reviews",
+        "description": "See what our Cleveland customers are saying about Alpha Landscape & Design's hardscaping services."
+      },
+      "service-areas": {
+        "title": "Hardscaping Service Areas",
+        "description": "Alpha Landscape & Design provides hardscaping services in Cleveland and surrounding areas."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "patio-design-installation": "/images/service-patio-design-installation.webp",
+      "driveway-installation-repair": "/images/service-driveway-installation-repair.webp",
+      "retaining-wall-construction": "/images/service-retaining-wall-construction.webp",
+      "outdoor-kitchens-fireplaces": "/images/service-outdoor-kitchens-fireplaces.webp",
+      "walkways-steps-pathways": "/images/service-walkways-steps-pathways.webp",
+      "hardscape-lighting": "/images/service-hardscape-lighting.webp"
+    },
+    "servicesResponsive": {
+      "patio-design-installation": {
+        "src": "/images/service-patio-design-installation.webp",
+        "srcset": "/images/service-patio-design-installation-400w.webp 400w, /images/service-patio-design-installation-800w.webp 800w, /images/service-patio-design-installation-1200w.webp 1200w, /images/service-patio-design-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-installation-repair": {
+        "src": "/images/service-driveway-installation-repair.webp",
+        "srcset": "/images/service-driveway-installation-repair-400w.webp 400w, /images/service-driveway-installation-repair-800w.webp 800w, /images/service-driveway-installation-repair-1200w.webp 1200w, /images/service-driveway-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "retaining-wall-construction": {
+        "src": "/images/service-retaining-wall-construction.webp",
+        "srcset": "/images/service-retaining-wall-construction-400w.webp 400w, /images/service-retaining-wall-construction-800w.webp 800w, /images/service-retaining-wall-construction-1200w.webp 1200w, /images/service-retaining-wall-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outdoor-kitchens-fireplaces": {
+        "src": "/images/service-outdoor-kitchens-fireplaces.webp",
+        "srcset": "/images/service-outdoor-kitchens-fireplaces-400w.webp 400w, /images/service-outdoor-kitchens-fireplaces-800w.webp 800w, /images/service-outdoor-kitchens-fireplaces-1200w.webp 1200w, /images/service-outdoor-kitchens-fireplaces.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "walkways-steps-pathways": {
+        "src": "/images/service-walkways-steps-pathways.webp",
+        "srcset": "/images/service-walkways-steps-pathways-400w.webp 400w, /images/service-walkways-steps-pathways-800w.webp 800w, /images/service-walkways-steps-pathways-1200w.webp 1200w, /images/service-walkways-steps-pathways.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hardscape-lighting": {
+        "src": "/images/service-hardscape-lighting.webp",
+        "srcset": "/images/service-hardscape-lighting-400w.webp 400w, /images/service-hardscape-lighting-800w.webp 800w, /images/service-hardscape-lighting-1200w.webp 1200w, /images/service-hardscape-lighting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

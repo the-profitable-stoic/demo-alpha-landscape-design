@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-alpha-landscape-design.dream-surge.com/sitemap-index.xml
